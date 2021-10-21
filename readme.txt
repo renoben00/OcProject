@@ -1,1 +1,2 @@
 Fichier d'instructions à l'utilisation du fichier cagnotte.html
+Bonne continuation à vous
