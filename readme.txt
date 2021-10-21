@@ -1,1 +1,0 @@
-Fichier d'instructions à l'utilisation du fichier cagnotte.html
